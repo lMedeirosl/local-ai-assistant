@@ -1,0 +1,8 @@
+Python é uma linguagem de programação criada por Guido van Rossum.
+
+Python é muito utilizada em inteligência artificial,
+machine learning, ciência de dados e desenvolvimento web.
+
+Listas em Python são estruturas que armazenam vários valores.
+
+Uma lista pode conter números, textos e outros objetos.
