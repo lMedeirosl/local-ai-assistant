@@ -22,15 +22,25 @@ The project uses Ollama to run an AI model locally without requiring external AP
 
 ## Project structure
 local-ai-assistant/
+<br>
 ├── documents/
+<br>
 │ └── python.txt
+<br>
 │
+<br>
 ├── src/
+<br>
 │ ├── main.py
+<br>
 │ ├── llm.py
+<br>
 │ └── document_loader.py
+<br>
 │
+<br>
 ├── requirements.txt
+<br>
 └── README.md
 
 
